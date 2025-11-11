@@ -11,12 +11,12 @@ Total Host: **778** host
 
 | Ruang / Jaringan | Kebutuhan Host | Prefix |
 | :--- | :--- | :--- |
-| Sekretariat | 380 | /23 |
-| Bidang Kurikulum | 220 | /24 |
-| Bidang Guru & Tendik | 95 | /25 |
-| Bidang Sarana P. | 45 | /26 |
-| Bidang Pengawas S. (Cabang) | 18 | /27 |
-| Server & Admin | 6 | /28 |
+| Sekretariat | 381 | /23 |
+| Bidang Kurikulum | 221 | /24 |
+| Bidang Guru & Tendik | 96 | /25 |
+| Bidang Sarana P. | 46 | /26 |
+| Bidang Pengawas S. (Cabang) | 19 | /27 |
+| Server & Admin | 7 | /28 |
 | Interlink network | 6 | /29 |
 | WAN Link | 2 | /30 |
 
