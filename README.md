@@ -21,11 +21,7 @@ Total Host: **778** host
 | WAN Link | 2 | /30 |
 
 
-## VLSM
-
-# Alokasi Jaringan Proyek
-
-## Tabel Subnetting VLSM
+# VLSM
 
 | Ruang / Jaringan | Kebutuhan Host | Alokasi Host (Prefix) | Network | Mask | Prefix | Range Host (IP yang Bisa Dipakai) | Broadcast |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -43,10 +39,6 @@ Total Host: **778** host
 
 
 # CIDR
-
-# Alokasi Jaringan
-
-## Tabel Alokasi IP Lengkap
 
 | Nama Bidang (ID) | Network | Mask | Prefix | Range Host (IP yang Bisa Dipakai) | Broadcast | Gateway (Contoh) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
