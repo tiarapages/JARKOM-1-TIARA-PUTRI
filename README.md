@@ -21,5 +21,5 @@ Total Host: **770** host
 
 <img width="1662" height="680" alt="image" src="https://github.com/user-attachments/assets/5ab954ce-6f86-4667-86c9-d91e077678c6" />
 
+<img width="1180" height="1186" alt="Untitled-2025-11-11-1726" src="https://github.com/user-attachments/assets/1ea9f0c2-30f2-4232-84d0-7240b31c0763" />
 
-<img width="1180" height="1186" alt="VLSM_pohon" src="https://github.com/user-attachments/assets/cade29d7-c5ba-4205-9c41-8ca5705a2cba" />
