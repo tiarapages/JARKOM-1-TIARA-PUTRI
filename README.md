@@ -6,7 +6,7 @@
 ## SUBNETING
 
 **IP Prefix:** `10.53.0.0/22`  
-Total Host: **770** host
+Total Host: **778** host
 
 | Ruang / Jaringan | Kebutuhan Host | Prefix |
 | :--- | :--- | :--- |
