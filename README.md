@@ -23,7 +23,8 @@ Total Host: **778** host
 
 ## VLSM
 <img width="1662" height="680" alt="image" src="https://github.com/user-attachments/assets/5ab954ce-6f86-4667-86c9-d91e077678c6" />
-<img width="1180" height="1186" alt="Untitled-2025-11-11-1726" src="https://github.com/user-attachments/assets/1ea9f0c2-30f2-4232-84d0-7240b31c0763" />
+<img width="881" height="836" alt="image" src="https://github.com/user-attachments/assets/4d94a2d7-483b-4137-b46b-b769c2aad353" />
+
 
 
 # CIDR
